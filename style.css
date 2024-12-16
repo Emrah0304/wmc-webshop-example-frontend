@@ -6,8 +6,10 @@
   
 .delete-button {
     margin-left: auto;
+
 }
 
 .priceForm {
     display: flex;
+    color: ffffff;
 }
